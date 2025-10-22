@@ -21,7 +21,7 @@ Follow these simple steps — **no VPS or payment needed!**
 - Copy the generated command and paste it again into the Deepnote terminal  
 - Then visit your generated **IP address**
 
-**Tip:** Go to this link to get all required commands: http://abdullah.nyc.mn/
+**Tip:** Go to this link to get all required commands: [Free VPS/RDP](https://raw.githubusercontent.com/iemabdullah/Get-Free-VPS-RDP/refs/heads/main/CMD.txt)
 
 ---
 
